@@ -35,27 +35,3 @@ I'll organize my learning projects into folders as I create them:
 
 Last updated: December 30, 2025
 ```
-
-8. **Commit changes**
-
----
-
-### **STEP 5: PIN YOUR REPOSITORIES**
-
-1. Go to your profile: `github.com/successchibueze`
-
-2. Click **"Customize your pins"**
-
-3. **Select both:**
-   - ✅ successchibueze (your profile README)
-   - ✅ learning-journey
-
-4. Click **"Save pins"**
-
----
-
-### **STEP 6: UPDATE YOUR CV & LINKEDIN**
-
-**Update CV header to:**
-```
-Lagos, Nigeria | successb360@gmail.com | www.linkedin.com/in/success-chibueze-u | github.com/successchibueze
